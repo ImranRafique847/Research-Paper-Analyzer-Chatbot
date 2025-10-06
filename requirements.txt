@@ -8,3 +8,6 @@ pypdf
 faiss-cpu
 tiktoken
 openai
+sentence-transformers
+numpy
+pandas
